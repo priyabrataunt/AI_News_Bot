@@ -8,8 +8,8 @@ articles = response["hits"][:5]
 
 today = datetime.utcnow().strftime("%Y-%m-%d")
 
-with open("ai_news.md", "a") as f:
-    f.write(f"\n## AI News {today}\n\n")
+with open("ai_news.md", "w") as f:
+    f.write(f"# AI News {today}\n\n")
     for article in articles:
         title = article["title"]
         link = article["url"]
