@@ -1,4 +1,4 @@
-# AI News 2026-09-30
+# AI News 2026-10-01
 
 - [Don't post generated/AI-edited comments. HN is for conversation between humans](https://news.ycombinator.com/newsguidelines.html#generated)
 - [Airfoil](https://ciechanow.ski/airfoil/)
